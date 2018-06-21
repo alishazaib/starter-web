@@ -16,3 +16,4 @@ SSSS
 
 ###copyright
 gsayuhdu
+all rights rehj
